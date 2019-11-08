@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
-import { MatToolbarModule, MatListModule } from '@angular/material';
+import { MatListModule } from '@angular/material/list';
+import { MatToolbarModule } from '@angular/material/toolbar';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
